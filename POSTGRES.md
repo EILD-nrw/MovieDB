@@ -1,7 +1,5 @@
 # PostgreSQL
 
-[Per Gitpod starten](https://gitpod.io/#https://github.com/EILD-nrw/MovieDB/)
-
 ```
 PGPASSWORD=123456 psql -h 127.0.0.1 -U muser moviedb
 
